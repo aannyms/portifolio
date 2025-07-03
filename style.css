@@ -28,7 +28,4 @@ a, .btn-link:hover {
 a:hover{
     color: var(--cor-destaque);
 }
-.foto{
-    width: 30px;  
-  height: 20px; 
-}
+
